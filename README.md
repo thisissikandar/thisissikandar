@@ -1,75 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sikandar Chauhan</h1>
-<h3 align="center">A Front End Developer from India</h3>
+<div>
+<img src="https://github.com/user-attachments/assets/bc6861c4-7f34-4d0e-8125-5d254e8df249" width="100%" style="border-radius:10px;object-fit:cover;"/>
+</div>
 
 
+# 👋 Hello, I'm Sikandar Chauhan !
 
-- 🌱 I’m currently learning **Next.js**
+Welcome to my GitHub profile! .
+## 🚀 Skills & Technologies
 
-- 🤝 I’m looking for a Front End Developer role **Software Engineer**
+- **Front-End Development:**  
+  - HTML, CSS, JavaScript
+  - TailwindCSS 
+  - Bootstrap
+  - React.js
+  - Next.js
 
-- 👨‍💻 All of my projects are available at [https://sikandar.vercel.app/](https://vercel.com/dashboard)
+- **Back-End Development:**  
+  - MERN Stack 
+    - MongoDB
+    - Express.js
+    - Node.js
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thisissikandar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/thisissikandar1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sikandar-chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sikandar-chauhan/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thisissikandar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thisissikandar/" height="30" width="40" /></a>
-</p>
-.
-<h3 align="left">Languages and Tools:</h3>.
-<!----------------------------------- Tech Stack Section ------------------------------------>
-<h2>Tech Stack</h2>
-<h3>Languages</h3>
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-<!--     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /> -->
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-</p>
-<h3>Frontend Framework and Lib</h3>
-<p>
-    <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-<!--     <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="material-design" /> -->
-  
-</p>
-<h3>Backend Framework and Lib</h3>
-<p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-<!--     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" /> -->
-</p>
-<h3>Database</h3>
-<p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-<!--     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> -->
-</p>
-<h3>Mobile Framework </h3>
-<p>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" />
-</p>
-<h3>Other</h3>
-<p>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-<!--     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> -->
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-</p>
+- **Additional Expertise:**  
+  - Authentication & Authorization Systems
+  - Password Encryption (npm libraries)
+  - JWT (JSON Web Tokens)
+  - Git & GitHub
+  - API Development & Integration
+  - Postman
 
 
+## 💼 Services I Provide
 
+- **Web Development:**  
+  Custom web applications and websites using HTML, CSS, JavaScript, TailwindCSS, and Bootstrap.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissikandar&show_icons=true&locale=en&layout=compact" alt="thisissikandar" /></p>
+- **Full-Stack Development:**  
+  End-to-end solutions with MERN stack (MongoDB, Express.js, React, Node.js, Next.js) including both front-end and back-end development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissikandar&show_icons=true&locale=en" alt="thisissikandar" /></p>
+- **Back-End Development:**  
+  PHP and MySQL solutions, including server-side scripting and database management.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissikandar&" alt="thisissikandar" /></p>
+- **API Development & Integration:**  
+  Creating and integrating APIs to enhance functionality and connect with third-party services.
+
+- **Authentication & Security:**  
+  Implementing secure authentication and authorization systems, including JWT and password encryption.
+
+## 📚 Learning & Growth
+
+I'm constantly exploring new technologies and methodologies to improve my skills. Whether it's mastering a new framework, optimizing performance, or diving into the latest industry trends, I'm committed to continuous learning.
+
+## 🤝 Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sikandar-chauhan/) or reach out via email at [sikandarc989@gmail.com](mailto:sikandarc989@gmail.com). I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
+
+Thank you for visiting my profile!
+<br>
+
